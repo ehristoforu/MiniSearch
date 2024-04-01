@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'UbuntuRegular';
+    src: url('./fonts/Ubuntu-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: darkgray;
+    font-family: UbuntuRegular;
+}
+
+.title {
+    font-family: UbuntuRegular;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
