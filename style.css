@@ -12,7 +12,34 @@ body {
 
 .title {
     font-family: UbuntuRegular;
-    font-size: 20px;
+    font-size: 25px;
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 }
+
+a {
+    font-family: UbuntuRegular;
+    font-size: 18px;
+    text-decoration: none;
+    color: #3a3535;
+}
+
+li {
+    display: flex;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+.search-section {
+    margin-top: 30px;
+}
+
+.opencopilot-section {}
